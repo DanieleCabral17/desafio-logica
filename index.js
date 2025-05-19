@@ -1,5 +1,5 @@
 let nomeHeroi = "Viúva Negra"
-let xp = "11750"
+let xp = "11550"
 let nivel = ["Ferro", "Branze", "Prata", "Ouro", "Platina", "Ascendente", "Imortal", "Radiante"]
 
 
